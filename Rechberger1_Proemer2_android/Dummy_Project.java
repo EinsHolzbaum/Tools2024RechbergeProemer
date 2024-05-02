@@ -12,6 +12,7 @@ public void thisIsANewMethod() {
         myObject.thisIsANewMethod();
     }
     System.out.println("This line of code serves no purpose whatsoever.");
+    System.out.println("This is a second line of code.");
  }
 class Test
 {
