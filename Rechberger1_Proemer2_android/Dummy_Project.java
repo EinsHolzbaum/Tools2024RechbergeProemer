@@ -11,6 +11,7 @@ public void thisIsANewMethod() {
         // Aufruf der Methode
         myObject.thisIsANewMethod();
     }
+    System.out.println("This line of code serves no purpose whatsoever.");
  }
 class Test
 {
