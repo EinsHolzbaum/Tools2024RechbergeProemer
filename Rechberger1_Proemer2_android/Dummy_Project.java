@@ -14,6 +14,7 @@ public void thisIsANewMethod() {
     System.out.println("This line of code serves no purpose whatsoever.");
     System.out.println("This is a second line of code.");
     System.out.println("This is a third line of code.");
+    System.out.println("This is is a fourth line of code.");
  }
 class Test
 {
